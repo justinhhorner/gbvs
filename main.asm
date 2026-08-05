@@ -1,0 +1,3 @@
+include "hardware.inc"
+
+; YOUR ADVENTURE STARTS HERE...
